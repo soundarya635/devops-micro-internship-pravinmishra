@@ -23,18 +23,19 @@ Take a screenshot of your interaction showing:
 
 ## Screenshot
 
-Save your screenshot in the `screenshots` folder and update the file name below.
-
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
 
 
-Replace `task-1-chatgpt.png` with your actual screenshot file name.
+![Task 1 Screenshot 1](screenshots/Screenshot1.png)
+![Task 1 Screenshot 2](screenshots/Screenshot2.png)
+![Task 1 Screenshot 3](screenshots/Screenshot3.png)
+
 
 ---
 
-## What I Learned (2–3 lines)
+## What I Learned 
 
-Add your answer here...
+I learned that a networking protocol is a set of rules used by devices to communicate with each other. I also understood how protocols help devices exchange data correctly.
+
 
 ---
 
@@ -59,7 +60,8 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a user accesses the EpicReads website, the data is divided into small units called packets. These packets travel through different networks using packet switching and reach the server hosted in Finland. The server has an IP address that uniquely identifies it on the internet. TCP/IP is responsible for communication between the user's device and the server. IP handles addressing and routing, while TCP helps deliver the data reliably and in the correct order. HTTP or HTTPS is used for communication between the browser and the web server. HTTPS is more secure because it encrypts the data during transmission. Finally, the response from the Finland server is divided into packets and sent back to the user's device, where the browser reconstructs the data and displays the EpicReads website.
+
 
 ---
 
@@ -89,32 +91,29 @@ EpicReads bookstore has two application versions:
 
 ## Diagram Screenshot / Photo
 
-Save your diagram image in the `screenshots` folder and update the file name below.
-
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
 
 
-Replace `task-3-diagram.png` with your actual diagram file name.
+![Application Architecture Diagram](screenshots/Screenshot4.png)
+![Application Architecture Diagram](screenshots/Screenshot5.png)
 
----
+
 
 ## Technologies Used
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* React
+*Html/CSS
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Spring Boot
+* Node.js
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
-
+* PostgreSQL
+*MySQl
 ---
 
 # 🌍 Task 4: Domain Name & DNS (Basic Concepts)
@@ -142,7 +141,8 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) is used to convert a human-readable domain name into an IP address. Instead of remembering 52.172.142.222, users can simply enter epicreads.com. An A record should be used because it connects a domain name to an IPv4 address. Therefore, the A record can point epicreads.com to 52.172.142.222. The port number 3000 is not part of the DNS record and is handled separately by the application or server.
+
 
 ---
 
@@ -172,16 +172,14 @@ ls
 
 * Your selected VS Code theme clearly visible
 
-⚠️ **Important:** The screenshot must show your username or another identifiable detail to confirm it is your environment.
 
 ## Screenshot
 
-Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](screenshots/Screenshot6.png)
 
 
-Replace `task-5-vscode.png` with your actual screenshot file name.
+
 
 ---
 
@@ -218,7 +216,7 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+
 ```
 
 ---
@@ -227,7 +225,30 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+🚀 Week 00 of my DevOps Micro Internship (DMI) – Cohort 3
+
+I started my DevOps journey by learning the fundamentals of networking, application architecture, DNS, and developer tools.
+
+🔹 ChatGPT
+Learned how to create effective prompts and use ChatGPT as a learning assistant to understand networking concepts.
+
+🔹 Internet & Networking
+Learned about packet switching, IP addresses, TCP/IP, and HTTP/HTTPS and how they work together when accessing websites.
+
+🔹 App Architecture
+Understood the difference between two-tier and three-tier architectures and the roles of frontend, backend, and database layers.
+
+🔹 DNS
+Learned how DNS maps domain names to IP addresses and understood the purpose of an A record.
+
+🔹 VS Code Setup
+Set up VS Code and practiced using its integrated terminal.
+
+This week gave me a strong foundation for continuing my DevOps learning journey. 🚀
+
+#DevOps #DMI #DevOpsMicroInternship #Networking #Cloud #LearningJourney #Cohort3
+
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/soundarya635.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3
 
 ---
 
@@ -235,19 +256,22 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+I found the basic networking concepts and VS Code setup easy to understand and practice.
+
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Understanding how packet switching, TCP/IP, DNS, and application architecture work together was initially challenging.
+
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I will focus on learning DevOps tools and getting more hands-on practice with Linux, Git, and cloud concepts.
+
 
 ---
 
