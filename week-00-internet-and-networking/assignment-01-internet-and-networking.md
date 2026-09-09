@@ -216,7 +216,7 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```text
-
+https://lnkd.in/p/g9f6ABFH
 ```
 
 ---
