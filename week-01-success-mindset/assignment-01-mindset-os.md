@@ -33,7 +33,8 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that consistency is more important than being naturally talented. Many people think that successful people become successful because they are highly talented or intelligent. I believe that regularly learning, practicing, making mistakes, and continuing even when progress is slow can create better results over time. For me, small improvements every day are more valuable than trying to become perfect immediately.
+
 
 ---
 
@@ -55,11 +56,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Regular practice improves my ability more than simply reading about a topic.
 
 ### Evidence from my life
 
-Add your answer here...
+I noticed this while learning programming and DSA. Initially, understanding concepts theoretically did not always mean I could solve problems independently. After practicing questions regularly and reviewing my mistakes, I became more comfortable with problem-solving.
 
 ---
 
@@ -67,11 +68,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Consistent effort produces better long-term progress than depending on occasional bursts of motivation.
 
 ### Evidence from my life
 
-Add your answer here...
+When I worked on projects and technical preparation regularly, I was able to understand concepts better and complete tasks more effectively. When I delayed work until the last moment, I experienced more pressure and had less time to improve my work.
 
 ---
 
@@ -79,11 +80,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+I understand technical concepts better when I apply them through practical work.
 
 ### Evidence from my life
 
-Add your answer here...
+While working with technologies such as Java, Spring Boot, AWS, and React, I understood concepts more clearly when I implemented them in projects. Debugging actual problems helped me remember the concepts better than studying only from theory.
 
 ---
 
@@ -135,13 +136,30 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+### My 2.0 Version
+
+Three to seven years from now, Soundarya had built a strong career in software development with a focus on backend development, cloud technologies, and DevOps. She started her career by strengthening her fundamentals in Java, Spring Boot, databases, networking, Linux, and cloud computing. Instead of depending only on academic knowledge, she consistently worked on practical projects and documented her learning.
+
+She had built and deployed multiple real-world applications and maintained an organized GitHub portfolio that demonstrated her technical growth. Her projects showed her ability to design APIs, work with databases, connect frontend and backend systems, deploy applications, and troubleshoot technical issues. She had also improved her understanding of AWS services and DevOps practices through hands-on work.
+
+She had worked as a Software Developer and gradually taken responsibility for designing backend services, improving application reliability, and participating in deployment and development processes. She had contributed to team projects, participated in technical discussions, and learned how to communicate technical concepts clearly with teammates.
+
+Her portfolio included academic projects as well as personal projects that demonstrated her ability to learn new technologies and solve practical problems. She had continued improving her GitHub profile, technical documentation, and coding skills instead of treating learning as something that ended after college.
+
+She had also completed relevant certifications and published technical learning content through platforms such as LinkedIn or personal blogs. These activities helped her build a professional presence and demonstrate consistent learning.
+
+Beyond individual technical growth, she had taken part in hackathons, technical communities, and collaborative projects. These experiences improved her teamwork, leadership, problem-solving, and communication skills. She had also helped other beginners whenever she could by sharing resources and explaining concepts she had learned.
+
+Financial independence had become an important part of her professional journey. She had built her career through consistent effort and had been able to support her family while continuing to grow professionally.
+
+The biggest difference between her earlier self and her 2.0 version was not a single technology or achievement. It was the system she had developed around learning, discipline, execution, documentation, and continuous improvement. She had become someone who did not wait for perfect conditions to start. She learned, built, tested, failed, improved, and continued moving forward.
+
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+`https://lnkd.in/p/g9f6ABFH`
 
 ---
 
@@ -173,7 +191,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+No
 
 ---
 
@@ -199,16 +217,17 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits — James Clear
+2. Deep Work — Cal Newport
+3. The Psychology of Money — Morgan Housel
+4. The 7 Habits of Highly Effective People — Stephen R. Covey
+5. How to Win Friends and Influence People — Dale Carnegie
+6. The Almanack of Naval Ravikant — Eric Jorgenson
+7. Mindset — Carol S. Dweck
+8. Essentialism — Greg McKeown
+9. The First 90 Days — Michael D. Watkins
+10. So Good They Can't Ignore You — Cal Newport
+
 
 ---
 
@@ -237,16 +256,22 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+
+* Learning hours per week
+* DSA / coding practice sessions
+* New technical concepts learned
+* Projects completed and documented
+* GitHub contributions
+* Technical articles or notes published
+* DMI sessions completed
+* Deep work sessions per week
+* Sleep hours
+* Physical activity / workouts
+* Time spent on social media
+* Monthly personal spending
+* Monthly savings
+* Certifications completed
+
 
 ---
 
@@ -272,7 +297,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes
 
 ---
 
@@ -288,9 +313,14 @@ Example:
 * Sat: DMI session
 * Sun: Weekly review
 
-#### My Weekly Routine
+### My Weekly Routine
 
-Add your answer here...
+* Monday–Friday: 1 hour technical learning / coding
+* Monday–Thursday: 45–60 minutes DMI or DevOps practice
+* Saturday: 2 hours project / DMI work
+* Sunday: Weekly review and planning
+* Daily: 15–20 minutes revision of previously learned concepts
+
 
 ---
 
@@ -298,12 +328,12 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Monday–Thursday: 8:00 PM – 9:00 PM
+Saturday: 10:00 AM – 12:00 PM
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
-
+6 sessions per week.
 ---
 
 ### Distraction Rules
@@ -316,7 +346,14 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+
+* Keep my phone away during deep work sessions.
+* Avoid social media during study blocks.
+* Use only the tabs and applications required for the current task.
+* Complete one important task before switching to another.
+* Keep notifications turned off during DMI and coding sessions.
+* Take short breaks instead of checking social media whenever I feel distracted.
+
 
 ---
 
@@ -324,27 +361,26 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that I make better progress when I have a clear plan and a fixed time for important tasks instead of depending only on motivation.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I sometimes spend too much time thinking about how to start a task instead of starting with a small action. This can lead to unnecessary delay and last-minute pressure.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
-
+I will follow a fixed 60-minute focused learning session from Monday to Thursday at 8:00 PM, keep my phone away during the session, and record what I completed at the end.
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+`https://lnkd.in/p/g9f6ABFH`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
+- LinkedIn Post URL: **[ADD LINK HERE](https://lnkd.in/p/g9f6ABFH)**  
 - Blog / Medium : **ADD LINK HERE**  
 
 ---
