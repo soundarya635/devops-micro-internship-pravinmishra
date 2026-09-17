@@ -159,7 +159,7 @@ The biggest difference between her earlier self and her 2.0 version was not a si
 
 Paste your link here:
 
-`https://lnkd.in/p/g9f6ABFH`
+`https://lnkd.in/p/gi4JUBcj`
 
 ---
 
@@ -374,14 +374,14 @@ I will follow a fixed 60-minute focused learning session from Monday to Thursday
 
 Paste your LinkedIn post link here:
 
-`https://lnkd.in/p/g9f6ABFH`
+`https://lnkd.in/p/gi4JUBcj`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **[ADD LINK HERE](https://lnkd.in/p/g9f6ABFH)**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **https://lnkd.in/p/gi4JUBcj**  
+- Blog / Medium : **[https://lnkd.in/p/gi4JUBcj](https://lnkd.in/p/gi4JUBcj)**  
 
 ---
 
